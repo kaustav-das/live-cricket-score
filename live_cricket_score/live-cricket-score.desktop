@@ -1,0 +1,10 @@
+[Desktop Entry]
+Version=1.0
+Name=Live Score
+Type=Application
+Exec=/opt/live_cricket_score/run.sh
+Terminal=false
+Icon=/opt/live_cricket_score/icon.svg
+Comment=Get Live Cricket Scores
+Categories=Utility;Sports;
+Name[en]=Live Score
