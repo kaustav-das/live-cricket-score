@@ -2,4 +2,4 @@
 
 # Live Cricket Score
 Python and bash script package to get live cricket scores.
-Thanks to http://cricscore-api.appspot.com/csa for providing the cricket api.
+Thanks to http://cricscore-api.appspot.com for providing the cricket api.
