@@ -1,4 +1,5 @@
 [![Build Status](https://travis-ci.org/kaustav-das/live-cricket-score.svg?branch=master)](https://travis-ci.org/kaustav-das/live-cricket-score)
 
 # Live Cricket Score
-Python and bash script package to get live cricket scores
+Python and bash script package to get live cricket scores.
+Thanks to http://cricscore-api.appspot.com/csa for providing the cricket api.
